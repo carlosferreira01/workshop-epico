@@ -1,6 +1,6 @@
 #TITULO
 
-## GIT
+## Sobre
 
 
-Workshop de git.
+Repositorio realizado durante a Secomp de 2017.
